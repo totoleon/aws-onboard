@@ -1,5 +1,16 @@
-# AWS training for starters
-This course provides entry level training for Amazon Web Service. 
+# AWS training for beginners
+This course provides entry level training for Amazon Web Service.
+
+The target audiences are the IT students/graduates who want are intereested in cloud and find related job.
+
+The course aims helping candidates to get started with AWS with hands on experience. By the end of the course, candidates are supposed to:
+- Better understand of IT in general
+- Identifying basics of AWS and cloud concepts
+- Describe core AWS services with practical experience
+- Knowing most of AWS services on the domain map
+- Name some of the fundamental cloud concepts and best practise
+- Pass AWS Certified Cloud Practitioner exam
+- Be exposed to more job opportunities
 
 ### Syllabus
 ---
@@ -97,7 +108,7 @@ This course provides entry level training for Amazon Web Service.
   - Pets and cattles
   - Choose the right service
 - Web app 2.0
-  - ```iam```
+  - ```IAM```
   - ```S3```
   - ```RDS```
 - Web app 3.0
@@ -140,6 +151,10 @@ This course provides entry level training for Amazon Web Service.
 
 ---
 #### 9. Preparing for the exam
+- Billing model and account managements
+- Shared responsibility
+- Security best practise
+- HA best practise
 - Review the topics covered in the exams
 - Exam tips
 - Cloud Practioner
@@ -150,6 +165,6 @@ This course provides entry level training for Amazon Web Service.
 - Cloud Practioner Mock tests
 - AWS positions and leader ship principals
 - STAR interview questions
-- AWS related jobs and resume key words
-- QnA
+- Cloud related jobs and what they take
 - How to continue self study
+- QnA
